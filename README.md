@@ -1,4 +1,10 @@
 # 🧾 Mini ERP Inventory Billing System  
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Flask](https://img.shields.io/badge/Framework-Flask-lightgrey?logo=flask)
+![SQLite](https://img.shields.io/badge/Database-SQLite-blue?logo=sqlite)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
+
 
 A lightweight **Flask + SQLite** based ERP-style system that manages **Products**, **Customers**, **Billing**, and **Dashboard summaries** — built as a simple Python project to demonstrate backend and database integration.
 
